@@ -35,7 +35,7 @@ The repository is organized as follows:
 ┗ 📜submission.csv    # Optional Kaggle submission
 ```
 
-Note that the data is not made available in this repository!
+Note that the `data` and `model` is not made available in this repository!
 
 ## Installation
 
