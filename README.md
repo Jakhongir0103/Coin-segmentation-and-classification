@@ -32,7 +32,9 @@ The repository is organized as follows:
 ┣ 📜report.ipynb      # Project notebook
 ┣ 📜requirements.txt  # Required packages
 ┣ 📜segmentation.py   # Segmentation script
+┣ 📜slides.pdf        # Slides of the project presentation
 ┗ 📜submission.csv    # Optional Kaggle submission
+
 ```
 
 Note that the `data` and `model` is not made available in this repository!
